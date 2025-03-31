@@ -1,4 +1,4 @@
-# Reinforcement Learning Word Guessing Game
+# Guess.io : Word Guessing Game
 
 A word guessing game where you compete against an AI bot that learns from each game using reinforcement learning techniques.
 
@@ -44,9 +44,9 @@ Follow the on-screen instructions to:
 4. Compete against the learning bot
 5. Track session statistics
 
-### Structure of the Repositry
-
-word_rl_game/
+### Structure of the Repository
+```
+root/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -58,9 +58,8 @@ word_rl_game/
 │   └── utils.py
 └── tests/
     ├── __init__.py
-    └── test_bot.py
-    
-
+    └── test_bot.py   
+```
 ## How It Works
 
 ### Game Mechanics
