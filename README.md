@@ -54,6 +54,7 @@ root/
 │   ├── __init__.py
 │   ├── bot.py
 │   ├── game_api.py
+│   ├── UI.py
 │   ├── game.py
 │   └── utils.py
 └── tests/
