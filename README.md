@@ -89,6 +89,3 @@ The bot uses reinforcement learning to improve its guessing strategy:
 - Requests
 - Hugging Face API access
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
