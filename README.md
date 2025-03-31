@@ -16,8 +16,8 @@ A word guessing game where you compete against an AI bot that learns from each g
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/word-rl-game.git
-cd word-rl-game
+git clone https://github.com/who-else-but-arjun/Course_Project_DA221M
+cd Course_Project_DA221M
 ```
 
 2. Install the required dependencies:
